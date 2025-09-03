@@ -20218,7 +20218,11 @@ namespace Illuminate\Support\Facades {
          * @return bool
          * @static
          */
+<<<<<<< HEAD
         public static function prepend($path, $data, $separator = '
+=======
+        public static function prepend($path, $data, $separator = '
+>>>>>>> e3fb70c (First commit)
 ')
         {
             //Method inherited from \Illuminate\Filesystem\FilesystemAdapter 
@@ -20235,7 +20239,11 @@ namespace Illuminate\Support\Facades {
          * @return bool
          * @static
          */
+<<<<<<< HEAD
         public static function append($path, $data, $separator = '
+=======
+        public static function append($path, $data, $separator = '
+>>>>>>> e3fb70c (First commit)
 ')
         {
             //Method inherited from \Illuminate\Filesystem\FilesystemAdapter 
